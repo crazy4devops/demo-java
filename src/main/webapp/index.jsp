@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World Containers......: src/main/webapp/index.jsp</h2>
+<h2>Hello World Containers myapp......: src/main/webapp/index.jsp</h2>
 </body>
 </html>
